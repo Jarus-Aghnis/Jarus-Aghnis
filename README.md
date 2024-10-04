@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jarus-Aghnis
+- 👋 Hi, I’m @Jarus-Ahgnis
 - 👀 I’m interested in exploring and making the 
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...

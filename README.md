@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jarus-Ahgnis
-- 👀 I’m interested in exploring and making the 
+- 👋 Hi, I’m @H Suraj Singha
+- 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 can reach me on ig-@h.surajsingha

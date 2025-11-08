@@ -1,1 +1,1 @@
-This is the original header
+This is the CONFLICT branch header.
